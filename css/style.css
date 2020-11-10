@@ -18,12 +18,6 @@ body{
 	animation: fade-in-out-bg 120s linear infinite; 
 }
 
-/*@keyframes fade-in-out-bg{
-	0%{background-image: url(../images/landscape2.jpg);}
-	25%{background-image: url(../images/landscape3.jpg);}
-	50%{background-image: url(../images/landscape4.jpg);}
-	100%{background-image: url(../images/landscape5.jpg);}
-}*/
 
 section{
 	margin: 0 15px;
